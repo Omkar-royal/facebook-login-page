@@ -13,3 +13,6 @@ I'm excited to present to you all my most recent endeavour. Using HTML, CSS, and
 
 🙌 I'd love to hear your thoughts and feedback on the project! Feel free to try out the live demo and explore the code on GitHub. Your insights mean the world to me. 😊
 
+# Output Screen
+
+![Screenshot (361)](https://github.com/Omkar-royal/facebook-login-page/assets/77642195/55f81e3c-2eba-46c3-bfb8-f1bdc26428e2)
